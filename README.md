@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeFluxStudios/Stylized-LDON-Automation-LUA-Script/main/branding/profile-banner.png" alt="DeFluxStudios — MacroQuest, EverQuest, and automation tools" width="100%">
+  <img src="profile-banner.png" alt="DeFluxStudios — MacroQuest, EverQuest, and automation tools" width="100%">
 </p>
 
 # DeFluxStudios
